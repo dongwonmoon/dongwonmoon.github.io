@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Dongwon's Tech Blog # the main title
 
-tagline: 달려가는 개발자 # it will display as the subtitle
+tagline: 으라차차 # it will display as the subtitle
 
 description:  # used by seo meta and the atom feed
   AI, MLOps 등에 관한 주제에 대해 깊이 있게 탐구하고 공유하는 블로그 입니다.
